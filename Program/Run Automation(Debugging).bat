@@ -1,0 +1,1 @@
+"%ProgramFiles(x86)%\Java\jre6\bin\java.exe" -jar Automation.jar

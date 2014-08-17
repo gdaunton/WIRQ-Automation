@@ -1,0 +1,7 @@
+//use this file to specify the rotation path for automation to follow
+//Red = Red, Blue = Blue, Yellow = Yellow ect.(All should be capitalized)
+//Mic Break = Mic Break
+//THIS FILE IS CASE SENSITIVE
+//All lines with double slashes is a comment
+//each rotation object (red, blue) should have its own line
+//ex: Wall
