@@ -1,3 +1,5 @@
+<img src="http://www.rhosoft.biz/images/wirq_banner.png">
+
 WIRQ-Automation
 ===============
 WIRQ stands for West Irondequoit Radio Quality, it is the student run radio station at Irondequoit High School.
